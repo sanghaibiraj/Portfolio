@@ -108,18 +108,20 @@ a:hover{
 
 .top-cloud{
     position:absolute;
-    right: 200px;
+    right: 100px;
     top: 50px;
 }
 
 .bottom-cloud{
     position:absolute;
-    left: 100px;
+    left: 50px;
 }
 
 .mountain{
-    width: 100%;
+    width: 50%;
+    margin: 0 auto 0 auto;
 }
+
 
 .btn {
     background: #34c0d9;
